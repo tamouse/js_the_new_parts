@@ -1,0 +1,10 @@
+{
+  "name": "js_the_new_parts",
+  "version": "0.1.0",
+  "description": "Kyle Simpson: JavaScript: The Recent Parts on Frontend Masters, March 9, 2019",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/js_the_new_parts.git",
+  "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
+  "license": "MIT",
+  "private": true
+}
